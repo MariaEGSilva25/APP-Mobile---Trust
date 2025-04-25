@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    >
+
+<TextView
+android:id="@+id/textView"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+
+android:text="PRODUTOR"
+android:paddingTop="40dp"
+android:textSize="24sp" />
+
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_gravity="center"
+android:paddingBottom="50dp"
+android:text="INFORMAÇÕES BÁSICAS"/>
+
+
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+
+android:text="Descrição"/>
+
+<EditText
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:inputType="text"
+android:paddingBottom="400dp"
+    />
+
+
+<Button
+android:layout_width="200dp"
+android:layout_height="wrap_content"
+
+android:layout_gravity="center"
+android:text="CADASTRAR EVENTO"/>
+
+
+    </LinearLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:elevation="4dp">
+
+    <!-- Cabeçalho -->
+<TextView
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="INGRESSO"
+android:textSize="24sp"
+android:textStyle="bold"
+android:gravity="center"
+android:textColor="#FF0000"
+android:layout_marginBottom="16dp"/>
+
+    <!-- Código do ingresso -->
+<TextView
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="455688456895"
+android:textSize="18sp"
+android:gravity="center"
+android:textColor="#000000"
+android:layout_marginBottom="8dp"/>
+
+    <!-- Divisor -->
+<View
+android:layout_width="match_parent"
+android:layout_height="1dp"
+android:background="#CCCCCC"
+android:layout_marginVertical="8dp"/>
+
+    <!-- Informações do ingresso -->
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:orientation="vertical"
+android:layout_marginBottom="16dp">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Local:"
+    android:textSize="16sp"
+    android:textStyle="bold"/>
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Data:"
+    android:textSize="16sp"
+    android:textStyle="bold"
+    android:layout_marginTop="8dp"/>
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Horário:"
+    android:textSize="16sp"
+    android:textStyle="bold"
+    android:layout_marginTop="8dp"/>
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Valor:"
+    android:textSize="16sp"
+    android:textStyle="bold"
+    android:layout_marginTop="8dp"/>
+</LinearLayout>
+
+    <!-- Divisor -->
+<View
+android:layout_width="match_parent"
+android:layout_height="1dp"
+android:background="#CCCCCC"
+android:layout_marginVertical="8dp"/>
+
+    <!-- Condições -->
+<TextView
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="Condições:"
+android:textSize="16sp"
+android:textStyle="bold"/>
+
+<TextView
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:text="Não nos responsabilizamos por ingressos perdidos, adulterados, roubados ou adquiridos em posto de vendas não autorizadas."
+android:textSize="14sp"
+android:layout_marginTop="4dp"/>
+    </LinearLayout>
