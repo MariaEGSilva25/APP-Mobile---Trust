@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_meus_eventos"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/baseline_arrow_back_ios_new_24"
+        android:contentDescription="Voltar"
+        android:clickable="true"
+        android:focusable="true"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_meus_eventos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
