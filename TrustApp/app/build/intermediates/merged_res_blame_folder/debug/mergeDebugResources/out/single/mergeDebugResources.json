@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_doacao.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\doacao.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_confirmacao.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_confirmacao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.trustapp-debug-42:/drawable_bilhetes.png.flat",
+        "source": "com.example.trustapp-main-44:/drawable/bilhetes.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_clock.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_book.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_retiro.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\retiro.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.trustapp-debug-42:/layout_activity_initial.xml.flat",
+        "source": "com.example.trustapp-main-44:/layout/activity_initial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_frame.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\frame.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_meus_eventos.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_meus_eventos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_cadastro_produtor.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_cadastro_produtor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_suporte.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_suporte.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\font_inter.ttf.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\font\\inter.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_item_event.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\item_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_item_pedido.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\item_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_initial.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_initial.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_pagamento.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_pagamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_meus_eventos_detalhe.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_meus_eventos_detalhe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_searchview_background.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\searchview_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_menu_usuario.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_menu_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_ingresso.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_ingresso.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\font_inter_semibold.ttf.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\font\\inter_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_criar_evento.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_criar_evento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_item_events_categoria.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\item_events_categoria.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_cadastro_usuario.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_cadastro_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_meus_pedidos.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_meus_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_item_evento.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\item_evento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_outline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\outline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_localizacao.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\localizacao.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_dsco399.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\dsco399.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_evento_detalhe.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_evento_detalhe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\layout_activity_meus_dados.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\layout\\activity_meus_dados.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_dsco.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\dsco.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-debug-42:\\drawable_qrcode.png.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.11.1\\com.example.trustapp-main-44:\\drawable\\qrcode.png"
+    }
+]

@@ -1,0 +1,6 @@
+com.example.trustapp.test.app-core-1.6.1-0 C:\Users\Pichau\.gradle\caches\8.11.1\transforms\a5a40b6fef2f573b69376a51600b2c2f\transformed\core-1.6.1\res
+com.example.trustapp.test.app-tracing-1.2.0-1 C:\Users\Pichau\.gradle\caches\8.11.1\transforms\ba058dc59e33867a184371a1d7e708dd\transformed\tracing-1.2.0\res
+com.example.trustapp.test.app-androidTest-2 C:\Users\Pichau\Documents\TrustApp\app\build\generated\res\resValues\androidTest\debug
+com.example.trustapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\Pichau\Documents\TrustApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.trustapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\Pichau\Documents\TrustApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.trustapp.test.app-debugAndroidTest-5 C:\Users\Pichau\Documents\TrustApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.trustapp.auth.CadastroProdutorManagerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-06-10T18:09:19" hostname="DESKTOP-M81U9SG" time="0.011">
+  <properties/>
+  <testcase name="criarProdutor cria objeto Produtor corretamente" classname="com.example.trustapp.auth.CadastroProdutorManagerTest" time="0.002"/>
+  <testcase name="validaCampos retorna false quando algum campo está vazio" classname="com.example.trustapp.auth.CadastroProdutorManagerTest" time="0.009"/>
+  <testcase name="validaCampos retorna true quando todos os campos estão preenchidos" classname="com.example.trustapp.auth.CadastroProdutorManagerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
