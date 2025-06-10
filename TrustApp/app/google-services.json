@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648443276998",
+    "project_id": "trust-app-3ca80",
+    "storage_bucket": "trust-app-3ca80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648443276998:android:47f6715b7a68d46c8c71c7",
+        "android_client_info": {
+          "package_name": "com.example.trustapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRu32ezjiHicL-8mbxNPWp7teEv5_kFn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
